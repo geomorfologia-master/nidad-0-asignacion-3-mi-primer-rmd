@@ -11,45 +11,26 @@ la reenvíe, para que leas desde tu propio repo.
 Por otra parte, clona tu repo localmente usando RStudio. Si no te
 acuerdas de cómo hacerlo, usa como referencia la guía [¿Cómo realizar
 una
-asignación?](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md)
+asignación?](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md)
 
 Posteriormente, estudia la [Guía mínima de
-RMarkdown](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md).
+RMarkdown](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md).
 Puedes echarle un vistazo general a la guía, y luego utilizarla como
 referencia mientras vas realizando esta asignación.
 
 ## Tu número aleatorio asignado
 
 En la tabla a continuación verás las direcciones de correo electrónico
-de cada estudiante de la maestría, abreviadas usando sus 5 primeros
-caracteres (se excluyen los caracteres ‘.’ y ’\_’). Localiza tu
-abreviatura y toma nota de tu número aleatorio asignado, porque lo
-usarás para cumplir los mandatos que verás en este mismo documento.
+de cada estudiante, abreviadas usando sus 5 primeros caracteres (se
+excluyen los caracteres ‘.’ y ’\_’). Localiza tu abreviatura y toma nota
+de tu número aleatorio asignado, porque lo usarás para cumplir los
+mandatos que verás en este mismo documento.
 
 ``` r
  # abreviatura aleatorios
- #       acade        144
- #       agrie         79
- #       aleir        118
- #       arqco         77
- #       cindy         94
- #       franc         17
- #       geora        151
- #       hoyod        176
- #       ingan         26
- #       ingdi         15
- #       itac9        101
- #       ivanv        143
- #       lbine        116
- #       leona          9
- #       magda         92
- #       maryj         87
- #       masue         31
- #       mmvol        160
- #       naui2        127
- #       rober         98
- #       wilne         54
- #       yoenn        115
+ #       anala         85
+ #       carol         24
+ #       danie         33
 ```
 
 ## Archivo `README.Rmd`
@@ -67,7 +48,7 @@ colocar tus respuestas en dicho archivo.
     algo tal que esto ` ```{r}` y termina con esto ` ``` `.
 
   - Tal como explica la [Guía mínima de
-    RMarkdown](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md),
+    RMarkdown](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md),
     asegúrate que la **opción `Chunk Output in Console` de la rueda
     dentada está marcada** con un aspa (cotejo).
 
@@ -93,7 +74,7 @@ library(...) #Borra los ... (ni más ni menos) y escribe el nombre del paquete.
 > para colocar pistas sobre lo solicitado.
 
 > Tal como explica la [Guía mínima de
-> RMarkdown](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md),
+> RMarkdown](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md),
 > prueba tu código línea a línea. Configura la ejecución de código en la
 > consola de R, marcando la opción `Chunk Output in Console` de la rueda
 > dentada (barra de herramientas de archivo `.Rmd`). Así, cuando
@@ -180,9 +161,9 @@ worldbank_df[ ... , '...' ]
 ## Tejido del documento
 
   - Lee la [sección **“Antes de
-    tejer”**](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md#antes-de-tejer)
+    tejer”**](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md#antes-de-tejer)
     y la [sección
-    **“Teje”**](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md#teje)
+    **“Teje”**](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/guia-minima-de-rmarkdown.md#teje)
     de la Guía Mínima de RMarkdown.
 
   - Cuando estés preparado/a, **teje tu `.Rmd`**. Generarás un `.md`
@@ -197,7 +178,7 @@ worldbank_df[ ... , '...' ]
 ## Tarea final: *commit*\>*push*
 
   - Usa la guía [¿Cómo realizar una
-    asignación?](https://github.com/maestria-geotel-201902/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md)
+    asignación?](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md)
     para **sincronizar con tu repo remoto**.
 
 Si llegaste hasta aquí sin fallos, pasaste varios mundos. Sin embargo,
